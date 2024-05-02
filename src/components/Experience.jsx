@@ -119,7 +119,7 @@ const Experience = () => {
 
         <div className="pt-5">
           <h1 className="text-center text-3xl p-5 font-bold">Work Experience</h1>
-          <div className="py-5" >
+          <div className="py-5 px-0" >
             <h1 className="text-2xl text-center font-bold">Programming</h1>
             <h1 className="text-2xl p-2 text-center">I have solved 3500+ problems in different online judges.</h1>
           </div>
