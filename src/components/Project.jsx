@@ -25,7 +25,7 @@ const Project = () => {
     return (
         <div>
             <div className="flex flex-col items-center justify-center bg-indigo-50">
-                <h1 className="pt-10 w-3/4 pb-5 text-3xl text-center">Project</h1>
+                <h1 className="pt-10 w-3/4 pb-5 text-3xl text-center font-bold">Project</h1>
                 <hr className="h-[3px] w-[150px] sm:w-[200px] md:w-[300px] lg:w-[300px] bg-black text-center" />
             </div>
             <div className="w-full flex pt-5 flex-col justify-center items-center bg-indigo-50 sm:flex-col md:flex-row  lg:flex-row lg: gap-4 xl:flex-row  flex-wrap">
