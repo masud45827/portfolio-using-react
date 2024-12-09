@@ -16,7 +16,8 @@ const About = () => {
         />
         <div className="text-base text-justify md:w-3/5 md:pl-5 lg:text-lg">
           <p className="mb-5">
-           I recently graduated from Bangabandhu Sheikh Mujibur Rahman Science and Technology University in Gopalganj.
+            I graduated from Bangabandhu Sheikh Mujibur Rahman Science and
+            Technology University in Gopalganj.
           </p>
           <p className="mb-5">
             I have strong technical skills in languages such as C/C++, Python,
@@ -32,10 +33,12 @@ const About = () => {
           <p className="mb-5">
             I am an enthusiastic competitive programmer and have solved over
             3500 problems on online judges including Codeforces, Codechef,
-            Atcoder, LeetCode, CSES, LightOJ, and Hackerearth.I have reached Expert level on Codeforces. In 2022, I worked with a team and secured
-            the 67th position at BUET IUPC-2022. In 2023, our team achieved the
-            42nd position at the SUST IUPC 2023. In the same year, we secured
-            the 97th position at the ICPC Dhaka Regional Programming Contest.
+            Atcoder, LeetCode, CSES, LightOJ, and Hackerearth.I have reached
+            Expert level on Codeforces. In 2022, I worked with a team and
+            secured the 67th position at BUET IUPC-2022. In 2023, our team
+            achieved the 42nd position at the SUST IUPC 2023. In the same year,
+            we secured the 97th position at the ICPC Dhaka Regional Programming
+            Contest.
           </p>
         </div>
       </div>
