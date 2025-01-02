@@ -21,14 +21,12 @@ const About = () => {
           </p>
           <p className="mb-5">
             I have strong technical skills in languages such as C/C++, Python,
-            Java, JavaScript, HTML, and CSS. I'm familiar with frameworks like
-            React, Bootstrap, Tailwind CSS, Node.js, Express.js, and Koa.js. My
-            experience extends to working with databases like MySQL, MongoDB,
-            and DynamoDB. I am comfortable using Linux (Ubuntu) as my operating
-            system and am proficient with tools like Git and GitHub. These
-            technical skills allow me to navigate various aspects of software
-            development with ease and contribute effectively to any team or
-            project.
+            Java, JavaScript, HTML, and CSS. I'm familiar with React js,
+            Node.js,Tailwind CSS, Express.js, and Koa.js. My experience extends
+            to working with databases like MySQL, MongoDB, and DynamoDB. I am
+            comfortable using Git and GitHub.These technical skills allow me to
+            navigate various aspects of software development with ease and
+            contribute effectively to any team or project.
           </p>
           <p className="mb-5">
             I am an enthusiastic competitive programmer and have solved over
